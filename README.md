@@ -66,4 +66,10 @@ npm run dev
 | **Frontend** | https://book.onslate.in/ |
 | **Backend** | https://book.onslate.in/](https://bookmanagement.development.catalystappsail.in |
 
+---
 
+## 👩 Author
+
+**Developer** Jo
+**Project** Book Management
+**Year** 2025
