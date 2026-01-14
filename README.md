@@ -70,6 +70,8 @@ npm run dev
 
 ## 👩 Author
 
-**Developer** Jo
-**Project** Book Management
-**Year** 2025
+- **Developer:** Jo
+
+- **Project:** Book Management
+
+- **Year:** 2025
